@@ -18,13 +18,15 @@ Output feeds into the-library knowledge pipeline.
 
 1. Install Bird CLI (requires Twitter/X session cookies)
 2. Configure `smaug.config.json` with API credentials
-3. Run: `npx smaug run --limit 50 -t` (batch processing with token tracking)
-4. Output: `output/bookmarks.md` — categorized markdown
+3. Run: `npx smaug run` (add `--limit N` for batch size, `-t` for token tracking)
+4. Output: `./bookmarks.md` — categorized markdown
+5. Processing command: `.claude/commands/process-bookmarks.md` (detailed categorization workflow)
 
 ## Cross-Repo Rules
 
 - **Reference but not update.** When working in this repo, you can READ from other CAPTAIN repos. Never WRITE to another repo.
 - **Branch strategy:** `main` stays synced with upstream via rebase. All CAPTAIN customizations go on the `captain` branch.
+- **After fresh clone:** Run `bash ~/Projects/captain-plugin/hooks/bootstrap.sh` to restore hookify symlinks.
 
 ## Upstream Tracking
 
