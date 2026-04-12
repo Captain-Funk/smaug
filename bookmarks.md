@@ -1,3 +1,259 @@
+# Thursday, April 9, 2026
+
+## @0xMovez - 1-Hour Podcast with Head of Claude Code on Vibe-Coding
+> This 1 hour podcast with the Head of Claude Code will teach you more about vibe-coding than 100 paid courses.
+>
+> Bookmark this & give it 1 hour today. It's the best video about AI you'll watch this week. Then read the article below.
+>
+> *Quoting @zodchiii:* https://t.co/UaX5di3nMQ
+
+- **Tweet:** https://x.com/0xMovez/status/2042169688352825457
+- **Quoted:** https://x.com/i/article/2041787125557772288
+- **What:** Recommendation for a podcast with the Head of Claude Code on vibe-coding, paired with a linked X article for deeper reading.
+
+## @heyrimsha - Claude Code Power User Workflow — Compressing a Workday into 90 Seconds
+> BREAKING: Someone just leaked their full Claude Cowork setup and it compresses an entire workday into 90 seconds.
+>
+> I scraped every power user workflow across X, Reddit, and private Slack groups to find out how.
+>
+> 99% of people are using it completely wrong.
+>
+> Here's what the top 1% actually do
+
+- **Tweet:** https://x.com/heyrimsha/status/2042214279374614990
+- **What:** Thread claiming to reveal top-1% Claude Code power user workflows scraped from X, Reddit, and Slack groups — focused on compressing repetitive work.
+
+## @primemans - 9 Claude Prompts from Dario Amodei's AI-Proof Career Framework
+> The CEO who created Claude just published a 38-page letter to all of humanity.
+>
+> Dario Amodei mapped out exactly which careers will survive AI and which ones won't.
+>
+> No hype. No apocalypse. Just the coldest, most specific prediction any AI leader has ever made.
+>
+> But page 29 has a reasoning framework that turns AI from what replaces you into your greatest unfair advantage.
+>
+> Here are 9 Claude prompts based on Amodei's methodology that put you years ahead of everyone who didn't read this
+
+- **Tweet:** https://x.com/primemans/status/2042232395290837180
+- **What:** Thread translating Dario Amodei's 38-page letter on AI and careers into 9 practical Claude prompts, focusing on a framework for turning AI into a competitive advantage rather than a threat.
+
+## @claudeai - Claude Platform Advisor Strategy: Pair Opus Advisor with Sonnet/Haiku Executor
+> We're bringing the advisor strategy to the Claude Platform.
+>
+> Pair Opus as an advisor with Sonnet or Haiku as an executor, and get near Opus-level intelligence in your agents at a fraction of the cost.
+
+- **Tweet:** https://x.com/claudeai/status/2042308622181339453
+- **What:** Official Anthropic announcement enabling Opus as a high-reasoning advisor paired with Sonnet or Haiku as executor in agent pipelines — near-Opus intelligence at a fraction of the cost.
+
+---
+
+# Wednesday, April 8, 2026
+
+## @heygurisingh - career-ops: AI Job Search Pipeline Built on Claude Code
+> Holy shit...
+>
+> A guy got laid off, built an AI job search system on Claude Code, evaluated 740+ job offers with it, and landed a Head of Applied AI role.
+>
+> Then he open-sourced the entire thing.
+>
+> It's called career-ops. One slash command. Full pipeline.
+>
+> Paste a job URL → get back a structured A-F evaluation, an ATS-optimized PDF tailored to that exact role, salary research, interview prep, and a tracker entry. All in one shot.
+>
+> No spreadsheets. No copy-pasting. No spray-and-pray.
+>
+> Here's what's inside:
+> → 14 skill modes (evaluate, scan, pdf, batch, apply, deep research, negotiation scripts, LinkedIn outreach)
+> → Portal scanner pre-loaded with 45+ companies — Anthropic, OpenAI, ElevenLabs, Mistral, Cohere, Stripe, Retool, Vercel, Decagon, the works
+> → 19 search queries across Ashby, Greenhouse, Lever, Wellfound, Workable
+> → ATS-optimized PDF generation via Playwright with Space Grotesk + DM Sans
+> → Go terminal dashboard built with Bubble Tea to browse your pipeline
+> → Batch mode that evaluates 10+ offers in parallel using Claude sub-agents
+> → An interview Story Bank that accumulates STAR+Reflection stories across evaluations
+> → Auto-fill for application forms
+>
+> Career-ops is a filter — not spray-and-pray. Refuses to recommend anything scoring below 4.0/5. 8.2k stars. MIT licensed.
+
+- **Tweet:** https://x.com/heygurisingh/status/2041774894044835928
+- **What:** Open-source Claude Code skill system (career-ops) that evaluates job offers with A-F ratings, generates ATS-optimized PDFs, and manages the full application pipeline. Built by someone who used it to land a Head of Applied AI role after evaluating 740+ offers.
+
+## @noisyb0y1 - Stanford Lecture on How AI Agents Actually Work
+> This 1-hour Stanford lecture will teach you more about how AI agents actually work than every "automation hack" thread you've read this year.
+>
+> Bookmark this & give it 1 hour today, no matter what. Then read the article below.
+>
+> *Quoting @defileo:* https://t.co/bpCVnqGCkv
+
+- **Tweet:** https://x.com/noisyb0y1/status/2041884593087803841
+- **Quoted:** https://x.com/i/article/2041782608548274176
+- **What:** Strong recommendation for a 1-hour Stanford lecture on AI agent mechanics, paired with a linked X article — framed as more valuable than typical automation hack threads.
+
+## @HowToAI_ - Paperdraw: Free Web-Based System Design Simulator
+> BREAKING: Someone just built a web-based System Design Simulator.
+>
+> It's called Paperdraw. It lets you drag and drop components to see how they handle real-world conditions like traffic, failures, latency, and scaling in real time.
+>
+> 100% free to try.
+
+- **Tweet:** https://x.com/HowToAI_/status/2041887471391404480
+- **What:** Paperdraw is a free drag-and-drop system design simulator that models real-world conditions (traffic, failures, latency, scaling) in real time — useful for learning and prototyping distributed architectures.
+
+## @milesdeutscher - Building an AI Second Brain with Claude Code + Obsidian
+> Claude Code + Obsidian is the most powerful AI combo I've ever used.
+>
+> I literally built an AI second brain that runs my entire life.
+>
+> Inspired by Andrej Karpathy's LLM Knowledge Wiki, this tool has been a complete game-changer.
+>
+> Here's EXACTLY how to build one for yourself.
+>
+> *Quoting @aiedge_:* https://t.co/xmANSBS0rL
+
+- **Tweet:** https://x.com/milesdeutscher/status/2041972675418189933
+- **Quoted:** https://x.com/i/article/2041263299497791488
+- **What:** How to build an AI-powered second brain using Claude Code and Obsidian, inspired by Andrej Karpathy's LLM Knowledge Wiki. Thread walks through the full setup.
+
+---
+
+# Saturday, April 4, 2026
+
+## @RoundtableSpace - everything-claude-code: 27 Agents, 64 Skills, 33 Commands + AgentShield
+> MOST COMPLETE CLAUDE CODE SETUP OPEN SOURCED
+>
+> - 27 agents, 64 skills, 33 commands + built-in AgentShield with 1,282 security tests
+> - Handles planning, code review, fixes, TDD, token optimization & more
+> - Works on Cursor, OpenCode, Codex CLI — one repo replaces weeks of setup, 100% free/open-source
+>
+> Repo: https://t.co/xPk3fV9mGb
+
+- **Tweet:** https://x.com/RoundtableSpace/status/2040500903296352663
+- **Link:** https://github.com/affaan-m/everything-claude-code
+- **Filed:** [everything-claude-code.md](./knowledge/tools/everything-claude-code.md)
+- **What:** Open-source Claude Code setup with 27 agents, 64 skills, 33 commands, and a built-in AgentShield security layer (1,282 tests). Works across Claude Code, Cursor, OpenCode, and Codex CLI.
+
+---
+
+# Tuesday, February 24, 2026
+
+## @_vmlops - Anthropic's 33-Page Claude Skills Design Guide — Key Insights
+> Anthropic dropped a 33-page guide on Claude Skills...And this changes how serious teams build AI workflows
+>
+> A Claude Skill is basically a reusable workflow in a folder. One CLAUDE.md file teaches Claude exactly how you want tasks done consistently every time
+>
+> The real insight isn't Skills....It's how to design them properly:
+> • Build micro-skills, not monoliths
+> • Keep instructions short and decisive
+> • Move heavy context into references and assets
+> • Always refine generated Skills manually
+> • Connect Skills to tools via MCP and hooks
+>
+> That's when AI stops being a chatbot… and starts becoming a system
+
+- **Tweet:** https://x.com/_vmlops/status/2026264152797503847
+- **Link:** https://platform.claude.com/docs/en/agents-and-tools/agent-skills/best-practices
+- **What:** Summary of Anthropic's official 33-page Claude Skills guide — emphasizes micro-skill design, short decisive instructions, MCP/hook integration, and manual refinement over AI-generated defaults.
+
+---
+
+# Saturday, February 21, 2026
+
+## @srishticodes - CLAUDE.md Template from Claude Code Creator Boris Cherny
+> This CLAUDE.md file will make you 10x engineer
+>
+> It combines all the best practices shared by Claude Code creator:
+>
+> Boris Cherny (creator of Claude Code at Anthropic) shared on X internal best practices and workflows he and his team actually use with Claude Code daily. Someone turned those threads into a structured CLAUDE.md you can drop into any project.
+>
+> It includes:
+> • Workflow orchestration
+> • Subagent strategy
+> • Self-improvement loop
+> • Verification before done
+> • Autonomous bug fixing
+> • Core principles
+>
+> This is a compounding system. Every correction you make gets captured as a rule. Over time, Claude's mistake rate drops because it learns from your feedback.
+
+- **Tweet:** https://x.com/srishticodes/status/2025254119636959701
+- **What:** Community-compiled CLAUDE.md template based on Boris Cherny's (Claude Code creator at Anthropic) internal best practices — covers workflow orchestration, subagent strategy, self-improvement loops, and verification workflows.
+
+---
+
+# Tuesday, February 10, 2026
+
+## @socialwithaayan - 12 Claude Opus Prompts for McKinsey-Level Market Research
+> BREAKING: AI can now do market research like McKinsey (for free).
+>
+> Here are 12 insane Claude Opus 4.6 prompts that replace $5,000 consultant: (Save for later)
+
+- **Tweet:** https://x.com/socialwithaayan/status/2021233357514997824
+- **What:** Thread sharing 12 Claude Opus prompts designed to replicate McKinsey-style market research — framed as a free alternative to hiring a $5,000 consultant.
+
+---
+
+# Wednesday, January 14, 2026
+
+## @aakashgupta - Claude Code as a 5-Layer Work Operating System (MCPs, Skills, APIs, Docs, GitHub)
+> Claude Code can replace 80% of your workflow if you configure it right.
+>
+> Here's the setup that turns Claude Code into a true Work Operating System:
+>
+> 1. MCPs — give Claude access to Slack, Notion, Drive, databases, CRMs, calendars. No more copy-pasting context.
+> 2. Skills — encode institutional memory: coding standards, architecture patterns, naming conventions. Write once, apply forever.
+> 3. APIs — let Claude call external services mid-task: validation, pricing, second opinions from other models.
+> 4. Docs — Claude writes READMEs, specs, API docs, ADRs by reading the codebase directly.
+> 5. GitHub — clone, branch, write, test, commit, PR, update ticket. You just review.
+>
+> Chain these together and the compounding kicks in.
+>
+> *Quoting @aakashgupta:* Claude Code with Opus-4.5 is basically AGI. Here's how to feel the AGI (with expert @carlvellotti): 11:04 - Setting Up MCPs | 28:00 - Using Skills | 38:00 - APIs | 44:12 - Writing Docs | 1:08:08 - GitHub Integration
+
+- **Tweet:** https://x.com/aakashgupta/status/2011509363601518943
+- **What:** Detailed breakdown of configuring Claude Code as a 5-layer work OS: MCPs for data access, Skills for institutional memory, APIs for external calls, Docs generation, and GitHub integration for end-to-end development automation.
+
+## @milesdeutscher - Claude Skills Marketplace with 60,000+ Ready-to-Use Skills
+> If you're building with Claude Code, you'll want to bookmark this site.
+>
+> A full agent marketplace of 60,000+ Claude Skills that are ready for use now.
+>
+> https://skillsmp.com/
+
+- **Tweet:** https://x.com/milesdeutscher/status/2011542096164036702
+- **What:** Pointer to skillsmp.com, a marketplace of 60,000+ pre-built Claude Skills ready for immediate use in Claude Code projects.
+
+---
+
+# Tuesday, January 13, 2026
+
+## @BenyaminHolley - Using CLAUDE.md and Skills to Encode Salesforce Institutional Memory
+> How to replace your Salesforce admin with Claude Code in three easy steps.
+>
+> Step 1: Set up a CLAUDE.md file that tells Claude Code to load your Salesforce skill whenever it detects SF work.
+>
+> Step 2: Build a skill that references a schema doc with all your org's weird field nuances.
+>
+> Step 3: Fire Kevin. (Kidding. Mostly.)
+>
+> The hierarchy: CLAUDE.md (always loaded) → /salesforce skill (loads when relevant) → schema doc (our specific field nuances). Each layer adds specificity.
+>
+> Second-order effect: Every nuance discovered gets added to the schema doc automatically. Institutional knowledge compounds instead of living in someone's head.
+>
+> Third-order effect: Less hallucination. Claude has actual documentation about what fields mean in OUR context.
+>
+> This is the difference between prompting and building organizational memory. You encode it once. It compounds forever.
+
+- **Tweet:** https://x.com/BenyaminHolley/status/2011091115609362812
+- **What:** Practical walkthrough of using CLAUDE.md + Skills to encode org-specific Salesforce knowledge in Claude Code — a 3-layer system (CLAUDE.md → skill → schema doc) that compounds institutional memory and reduces hallucination over time.
+
+## @aiedge_ - AI Edge X Article (Claude Code Context)
+> https://t.co/KHd6UCwObk
+
+- **Tweet:** https://x.com/aiedge_/status/2011108297152082250
+- **Link:** https://x.com/i/article/2010764583057997825
+- **What:** X platform article shared by AI Edge alongside other Claude Code content — full content requires reading the linked article.
+
+---
+
 # Sunday, January 4, 2026
 
 ## @trq212 - AI alignment and interpretability resources
@@ -692,3 +948,34 @@ it's live now do check it out and would appreciate your feedback https://t.co/DO
 
 - **Tweet:** https://x.com/alexhillman/status/1992252350812270856
 - **What:** Personal reflection on core imperatives with emphasis on keeping humans central to all technology decisions.
+
+---
+
+# Tuesday, January 28, 2025
+
+## @AshtonForbes - US Navy Black Operation UFO Disclosure Coverup Theory
+> This video might be the crown jewel of intel community's secret cache. It's everything they don't want the public to know.
+>
+> A black operation on a missing airliner, 'gravity' propelled plasma orbs, endothermic heat signatures, and a real wormhole.
+>
+> This video destroys their plan to disclose aliens to us to try to make humanity 'grow up' before we're allowed to know the truth about civilization changing technology.
+>
+> The U.S. Navy conducted this operation while 'not wearing badges.' I know who leaked this and I'm going to find him eventually.
+>
+> Edit - Now with video included! (Thanks Obama)
+
+- **Tweet:** https://x.com/AshtonForbes/status/1884339466736689263
+- **What:** Tweet claiming leaked footage documents a US Navy black operation involving exotic physics (plasma orbs, wormhole) tied to a missing airliner — framed as suppressed evidence of civilization-changing technology.
+
+---
+
+# Wednesday, December 25, 2024
+
+## @Raxxanterax - Path of Exile 2 Minion Infernalist Witch Endgame Build Guide
+> Here's my #pathofexile2 Minion Infernalist Witch Endgame Build Guide. This build is super tanky and shreds through the endgame mapping and bosses with ease.
+>
+> Build Planner here: https://t.co/yfGxQqaQXE
+
+- **Tweet:** https://x.com/Raxxanterax/status/1871903732755214568
+- **Link:** https://maxroll.gg/poe2/planner/fjuim01r
+- **What:** Endgame Minion Infernalist Witch build guide for Path of Exile 2 — tanky, high-damage, with a Maxroll build planner link.
