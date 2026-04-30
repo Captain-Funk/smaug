@@ -23,3 +23,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Secrets (audit standard — Phase 9 BRG-255)
+.env
+.env.*
+.mcp.json
+*.secret*
+credentials.json
