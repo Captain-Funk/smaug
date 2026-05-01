@@ -1,1 +1,0 @@
-/Users/dillon.w/Projects/Dillons Project/.claude/rules/hookify/hookify.agent-output-quality.local.md

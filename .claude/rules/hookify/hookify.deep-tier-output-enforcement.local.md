@@ -1,1 +1,0 @@
-/Users/dillon.w/Projects/Dillons Project/.claude/rules/hookify/hookify.deep-tier-output-enforcement.local.md
