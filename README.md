@@ -84,6 +84,37 @@ If you don't want to use the wizard to make it easy, you can manually put your s
 
 ## What Smaug Actually Does
 
+```mermaid
+flowchart TD
+    TW[Twitter / X<br/>bookmarks &amp; likes] -->|bird CLI session cookies| BIRD[bird CLI<br/>Twitter API wrapper]
+    BIRD -->|raw tweets JSON| SMAUG[Smaug<br/>orchestrator]
+
+    SMAUG --> EXPAND[Expand t.co links]
+    EXPAND --> EXTRACT{Content type?}
+
+    EXTRACT -->|GitHub URL| GH[GitHub API<br/>stars · description · README]
+    EXTRACT -->|Article URL| ART[Article scraper<br/>title · author · body]
+    EXTRACT -->|X long-form| XLF[bird CLI<br/>full article text]
+    EXTRACT -->|Quote / reply| THR[Thread context<br/>parent + reply chain]
+
+    GH --> CLAUDE[Claude Code<br/>analyze + categorize]
+    ART --> CLAUDE
+    XLF --> CLAUDE
+    THR --> CLAUDE
+
+    CLAUDE --> MD[Markdown files<br/>organized by date]
+    MD --> LIB[knowledge/ library<br/>tools · articles]
+
+    style TW fill:#1DA1F2,color:#fff
+    style BIRD fill:#0E7A6E,color:#fff
+    style SMAUG fill:#B943DD,color:#fff
+    style CLAUDE fill:#F59E0B,color:#000
+    style LIB fill:#059669,color:#fff
+    style EXTRACT fill:#94a3b8,color:#000
+```
+
+**The pipeline in 6 steps:**
+
 1. **Fetches bookmarks** from Twitter/X using the bird CLI (can also fetch likes, or both)
 2. **Expands t.co links** to reveal actual URLs
 3. **Extracts content** from linked pages:
@@ -94,6 +125,42 @@ If you don't want to use the wizard to make it easy, you can manually put your s
 4. **Invokes Claude Code** to analyze and categorize each tweet
 5. **Saves to markdown** organized by date with rich context
 6. **Files to knowledge library** - GitHub repos to `knowledge/tools/`, articles to `knowledge/articles/`
+
+### How a Single Bookmark Flows Through
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor User
+    participant Smaug
+    participant Bird as bird CLI
+    participant Twitter as Twitter API
+    participant Web as External URL
+    participant Claude as Claude Code
+    participant FS as Filesystem
+
+    User->>Smaug: npx smaug run
+    Smaug->>Bird: fetch bookmarks (auth cookies)
+    Bird->>Twitter: GET /bookmarks
+    Twitter-->>Bird: tweets JSON
+    Bird-->>Smaug: raw tweets
+
+    loop For each new tweet
+        Smaug->>Smaug: expand t.co links
+        Smaug->>Web: scrape linked URL
+        Web-->>Smaug: article / repo / thread
+
+        Smaug->>Claude: analyze (tweet + context)
+        Claude-->>Smaug: category + summary
+
+        Smaug->>FS: write markdown by date
+        Smaug->>FS: copy to knowledge/<category>/
+    end
+
+    Smaug-->>User: report (count + token usage)
+```
+
+This sequence is helpful when **debugging a stuck run** — each step has a checkpoint in `.state/`, and most failures cluster around bird CLI auth (step 2) or the Web scrape (step 4).
 
 ## Running Manually
 
