@@ -1,3 +1,66 @@
+# Tuesday, April 28, 2026
+
+## @claudeai - Autodesk Fusion connector: Claude modifies 3D models through conversation
+
+> *Replying to @claudeai:* Claude now connects to the tools creative professionals already use.
+>
+> With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude.
+>
+> With the Autodesk Fusion connector, designers and engineers can create and modify 3D models through conversation.
+
+- **Tweet:** https://x.com/claudeai/status/2049143440508616863
+- **Parent:** https://x.com/claudeai/status/2049143438281445811
+- **What:** Anthropic launched an Autodesk Fusion MCP connector enabling Claude to create and modify 3D models through natural language, expanding into professional design and engineering workflows.
+
+## @claudeai - Claude for creative work: Adobe, Ableton, Splice, Canva Affinity, SketchUp, Resolume
+
+> *Replying to @claudeai:* With the Autodesk Fusion connector, designers and engineers can create and modify 3D models through conversation.
+>
+> More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume.
+>
+> We've also joined the Blender Development Fund as a patron to support open-source development of the software.
+
+- **Tweet:** https://x.com/claudeai/status/2049143442601546054
+- **Parent:** https://x.com/claudeai/status/2049143440508616863
+- **Link:** https://www.anthropic.com/news/claude-for-creative-work
+- **What:** Anthropic expanded Claude's creative tool integrations with six new MCP connectors (Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, Resolume) and became a patron of the Blender Development Fund.
+
+## @claudeai - Claude gets a Blender connector for 3D scene control
+
+> Claude now connects to the tools creative professionals already use.
+>
+> With the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude.
+
+- **Tweet:** https://x.com/claudeai/status/2049143438281445811
+- **What:** Anthropic announced a Blender MCP connector allowing Claude to directly debug scenes, create new Blender tools, and apply bulk changes across all objects in a 3D scene.
+
+## @charliejhills - The LLM Council: 5-advisor Claude skill for better decisions
+
+> Claude will gaslight you, until you install this skill.
+>
+> It's called The LLM Council.
+>
+> You ask a question. 5 advisors attack it from different angles. Then they peer-review each other before giving you the verdict.
+
+- **Tweet:** https://x.com/charliejhills/status/2049140787200528725
+- **Link:** https://drive.google.com/file/d/16N7dwXp-EIfGEdyDR6ZJLNdbTUbw_NXV/view
+- **What:** A free Claude skill by Ole Lehmann that routes decisions through 5 AI advisors from different angles, has them anonymously grade each other's analysis, then synthesizes one final verdict — countering single-model overconfidence.
+
+---
+
+# Thursday, April 23, 2026
+
+## @claudeai - Memory on Claude Managed Agents now in public beta
+
+> Memory on Claude Managed Agents is now in public beta.
+>
+> Your agents can now learn from every session, using an intelligence-optimized memory layer that balances performance with flexibility.
+
+- **Tweet:** https://x.com/claudeai/status/2047421844311949513
+- **What:** Anthropic launched public beta of persistent memory for Claude Managed Agents, enabling agents to retain and build on context across sessions using an optimized memory layer.
+
+---
+
 # Friday, April 17, 2026
 
 ## @claudeai - Claude applies design systems automatically across projects
@@ -109,6 +172,15 @@
 ---
 
 # Sunday, April 12, 2026
+
+## @Eric_Smith08 - 7 Claude prompts to build a personal wealth operating system
+
+> BREAKING: Claude can now build your entire personal wealth operating system better than most financial coaches.
+>
+> Here are 7 prompts to automate clarity, growth, and calm:
+
+- **Tweet:** https://x.com/Eric_Smith08/status/2043304093758931211
+- **What:** A prompt thread promising 7 Claude prompts to automate personal wealth management — covering financial clarity, growth tracking, and stress reduction — framed as a replacement for financial coaching.
 
 ## @hridoyreh - 21 platforms to launch your startup
 
