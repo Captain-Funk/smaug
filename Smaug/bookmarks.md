@@ -1,3 +1,14 @@
+# Friday, June 12, 2026
+
+## @claudeai - Claude Fable 5 launch: early community builds
+
+> Claude Fable 5 has been out for a couple of days. Some projects people have already built with it:
+
+- **Tweet:** https://x.com/claudeai/status/2065456678909227064
+- **What:** Anthropic's @claudeai account highlighted community projects built with Claude Fable 5 within the first couple of days of the model's release, showcasing early adoption and creative use cases.
+
+---
+
 # Tuesday, April 28, 2026
 
 ## @claudeai - Autodesk Fusion connector: Claude modifies 3D models through conversation
